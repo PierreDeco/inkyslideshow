@@ -2,7 +2,7 @@
 
 Diaporama photo pour écran Pimoroni Inky Impression sur Raspberry Pi.
 
-Affiche les images d'un dossier en rotation, avec un bouton pour passer à l'image suivante.
+Affiche les images d'un dossier en rotation avec un intervalle de 60sec, avec un bouton pour passer à l'image suivante.
 
 ## Matériel requis
 
